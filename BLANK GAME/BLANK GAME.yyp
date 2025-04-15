@@ -36,6 +36,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sp_jogador","path":"sprites/sp_jogador/sp_jogador.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
